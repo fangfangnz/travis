@@ -1,0 +1,7 @@
+language: Java
+<<<<<<< HEAD
+
+script: true
+=======
+script: true
+>>>>>>> beb7ab86885b8cf867dce164358fb7a2784cb5d9
